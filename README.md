@@ -107,6 +107,17 @@ No tiene archivo de prueba propio las categorías y los mensajes se prueban dent
 
 
 
+## PANTALLAS
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/7ea381f7-0463-47f2-adb2-a3160414f33c" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/acfcfcde-6aa2-4b76-a56e-7bdf3a8384eb" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/392a28ca-6ff1-447f-953d-2b35d48f6ed6" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/532c1556-1d38-4069-a2ff-87b85d9f54f5" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/977fb820-fe68-470b-90ea-4755af0aa777" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/54d6ae3a-29f3-4cb0-a897-22526032afbc" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/47c6ca65-05c8-46f5-b827-b16c2ecc7f4c" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/fccb7f7a-d857-4a0d-92e2-76ac8b49f96a" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/724316e8-b82c-46f7-a195-cfd25516423f" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/4fadac05-4e6d-47cc-ac26-5a9e3a84bc0e" />
 
 
 
